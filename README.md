@@ -11,7 +11,15 @@
 ### Another way you can reach me is by creating a new issue on one of my repositories (make sure it's not the Cookie Clicker one, I won't respond there.) and leaving your question there.
 ###
 ### If you need help with anything CSS and HTML related, you can always ask me. If I don't know about what you need help with, you can always search it up on Google or whatever search engine you use.
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
+
+
 <!--
+
+
 **Juarez2010/Juarez2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
