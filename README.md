@@ -10,11 +10,11 @@
 ### Here are some ways you can reach me: 1. Go to my Scratch profile and leave a comment there.
 ### Another way you can reach me is by creating a new issue on one of my repositories (make sure it's not the Cookie Clicker one, I won't respond there.) and leaving your question there.
 ###
-### If you need help with anything CSS and HTML related, you can always ask me. If I don't know about what you need help with, you can always search it up on Google or whatever search engine you use.
+### If you need help with anything CSS and HTML related, you can ask me. 
 
 
 
-![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=dark)
+![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
 
 
 <!--
