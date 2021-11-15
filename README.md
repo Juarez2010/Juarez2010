@@ -20,6 +20,6 @@
 
 <a href="https://github.com/Juarez2010?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juarez2010&show_icons=true&theme=radical" alt="Used languages"/>
-</a>
+</a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juarez2010&repo=fnf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
