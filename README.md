@@ -18,8 +18,8 @@
 
 <span style="display:inline-block; width: 200px;"></span>
 
-<a href="https://github.com/Juarez2010?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juarez2010&show_icons=true&theme=radical" alt="Used languages"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juarez2010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
 <span style="display:inline-block; width: 200px;"></span>
 <br>
