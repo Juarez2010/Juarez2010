@@ -6,7 +6,6 @@
 ### While you are here, you can look at anything I have made on Github. I'm mostly active on here.
 ###
 ### I’m currently working: nothing right now. Check out this for more. 
-<br>
 https://github.com/LeoIsACoder/txt-thing-wip
 ###
 ### Here are some ways you can reach me: 1. Go to my Scratch profile and leave a comment there.
