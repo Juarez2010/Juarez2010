@@ -10,6 +10,10 @@
 ###
 ### Here are some ways you can reach me: 1. Go to my Scratch profile and leave a comment there.
 ### Another way you can reach me is by creating a new issue on one of my repositories (make sure it's not the Cookie Clicker one, I won't respond there.) and leaving your question there.
+
+Here's my Osu if you want to play with me or something: https://osu.ppy.sh/users/27323330
+
+My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
 ### If you need help with anything CSS and HTML related, you can ask me. 
 
