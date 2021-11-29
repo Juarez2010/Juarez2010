@@ -6,7 +6,7 @@
 ### While you are here, you can look at anything I have made on Github. I'm mostly active on here.
 ###
 ### I’m currently working: nothing right now. Check out this for more. 
-[https://github.com/LeoIsACoder/txt-thing-wip](url)
+https://github.com/LeoIsACoder/txt-thing-wip
 ###
 ### Here are some ways you can reach me: 1. Go to my Scratch profile and leave a comment there.
 ### Another way you can reach me is by creating a new issue on one of my repositories (make sure it's not the Cookie Clicker one, I won't respond there.) and leaving your question there.
@@ -15,7 +15,7 @@ Here's my osu if you want to play with me or something: https://osu.ppy.sh/users
 
 My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
-I also have Gamejolt as well: [https://gamejolt.com/@Juarez2010](url)
+I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
 ### If you need help with anything CSS and HTML related, you can ask me. 
 
 
