@@ -32,7 +32,7 @@ I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
 <a href="https://github.com/Juarez2010/fnf">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Juarez2010&repo=fnf&show_icons=true&theme=radical" alt="fnf">
 </a>
-<a href="https://github.com/Juarez2010/cookie">
+<a href="https://github.com/LeoIsACoder/txt-thing-wip">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoIsACoder&repo=txt-thing-wip&show_icons=true&theme=radical" alt="discord-clone-i-guess">
 </a>
 <a href="https://github.com/Juarez2010/Juarez2010.github.io">
