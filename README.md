@@ -15,6 +15,7 @@ Here's my osu if you want to play with me or something: https://osu.ppy.sh/users
 
 My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
+I also have Gamejolt as well: [https://gamejolt.com/@Juarez2010](url)
 ### If you need help with anything CSS and HTML related, you can ask me. 
 
 
