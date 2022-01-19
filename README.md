@@ -34,3 +34,7 @@ I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
 <a href="https://github.com/Juarez2010/Juarez2010.github.io" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juarez2010&repo=Juarez2010.github.io&show_icons=true&theme=radical" alt="github-site">
 </a>
+
+<a href="https://github.com/Juarez2010/website-v2" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juarez2010&repo=website-v2&show_icons=true&theme=radical" alt="github-sitev2">
+</a>
