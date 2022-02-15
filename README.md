@@ -13,7 +13,9 @@ My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
 I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
  
+Discord: Juarez2010#2344
 
+my friend's discord (if u want to annoy him): Leotheotherartist#6284
 
 
 ![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
