@@ -44,3 +44,6 @@ my friend's discord (if u want to annoy him): Leotheotherartist#6284
 <br>
 <br>
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Juarez2010/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Juarez2010/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Juarez2010/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+## thingys <br>
+<a href="https://discord.io/juarez2010" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
