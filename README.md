@@ -12,10 +12,7 @@ Here's my osu if you want to play with me or something: https://osu.ppy.sh/users
 My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
 I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
- 
-Discord: Juarez2010#2344
-
-my friend's discord (if u want to annoy him): Leotheotherartist#6284
+<iframe src="https://discord.com/widget?id=929467558195757067&theme=dark&username=Juarez2010" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 
