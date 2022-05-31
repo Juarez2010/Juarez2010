@@ -13,7 +13,7 @@ My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
 I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
 
-<iframe src="https://discord.com/widget?id=929467558195757067&theme=dark&username=Juarez2010" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=929467558195757067&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 
