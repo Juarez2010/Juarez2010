@@ -12,8 +12,6 @@ Here's my osu if you want to play with me or something: https://osu.ppy.sh/users
 My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
 I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
-<html>
-<iframe src="https://discord.com/widget?id=929467558195757067&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 
@@ -45,5 +43,4 @@ join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Juarez2010/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Juarez2010/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Juarez2010/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 ## thingys <br>
-<a href="https://discord.io/juarez2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</html>
+<a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
