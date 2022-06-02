@@ -24,6 +24,7 @@ join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 </a>
 <span style="display:inline-block; width: 200px;"></span>
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/Juarez2010/fnf" target="_blank">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Juarez2010&repo=fnf&show_icons=true&theme=radical" alt="fnf">
 </a>
