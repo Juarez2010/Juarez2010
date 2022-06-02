@@ -19,7 +19,7 @@ join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
 
 <span style="display:inline-block; width: 200px;"></span>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juarez2010&layout=compact&theme=radical&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
