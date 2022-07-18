@@ -11,16 +11,12 @@ Here's my osu if you want to play with me or something: https://osu.ppy.sh/users
 
 My Roblox: https://web.roblox.com/users/1912344670/profile
 ###
-I also have Gamejolt as well: https://gamejolt.com/@Juarez2010
-
-join the subreddit if u want (wip): https://www.reddit.com/r/Juarez2010YT/
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
 
 <span style="display:inline-block; width: 200px;"></span>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juarez2010&layout=compact&theme=radical&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
