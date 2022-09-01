@@ -6,11 +6,7 @@
 ### While you are here, you can look at anything I have made on Github. 
 ### I’m currently working on: nothing right now
 ###
-
-Here's my osu if you want to play with me or something: https://osu.ppy.sh/users/27323330
-
-My Roblox: https://web.roblox.com/users/1912344670/profile
-###
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 ![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
