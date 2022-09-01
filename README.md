@@ -36,5 +36,9 @@
 <br>
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Juarez2010/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Juarez2010/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Juarez2010/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> <br> <br>
 
-<a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> <iframe src="https://github.com/sponsors/Juarez2010/button" title="Sponsor Juarez2010" height="35" width="116" style="border: 0;"></iframe> <a href="https://www.patreon.com/bePatron?u=74060470" data-patreon-widget-type="become-patron-button">Become a Patron! (this is optional)</a> 
+<a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> 
+
+![GitHub Sponsor](https://img.shields.io/github/sponsors/Juarez2010?label=Sponsor&logo=GitHub)
+ 
+ <a href="https://www.patreon.com/bePatron?u=74060470" data-patreon-widget-type="become-patron-button">Become a Patron! (this is optional)</a> 
 
