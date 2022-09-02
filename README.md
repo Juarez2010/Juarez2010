@@ -1,8 +1,6 @@
 ### Hello.
 ### I'm Juarez2010. Some of you may know me from a popular coding website called Scratch.
 ###
-### You can visit my Scratch profile at https://scratch.mit.edu/users/Juarez2010/
-###
 ### While you are here, you can look at anything I have made on Github. 
 ### I’m currently working on: nothing right now
 ###
