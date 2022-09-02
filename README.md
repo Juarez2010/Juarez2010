@@ -39,3 +39,4 @@
 <a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> ![GitHub Sponsor](https://img.shields.io/github/sponsors/Juarez2010?label=Sponsor&logo=GitHub)
  <a href="https://www.patreon.com/bePatron?u=74060470" data-patreon-widget-type="become-patron-button">Become a Patron! (this is optional)</a> 
 
+ 
