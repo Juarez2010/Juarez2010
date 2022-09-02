@@ -4,7 +4,6 @@
 ### While you are here, you can look at anything I have made on Github. 
 ### I’m currently working on: nothing right now
 ###
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
