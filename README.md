@@ -6,7 +6,7 @@
 ###
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juarez2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+
 ![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juarez2010&show_icons=true&theme=radical)
 
 <span style="display:inline-block; width: 200px;"></span>
