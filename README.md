@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ### Hello.
 ### I'm Juarez2010. Some of you may know me from a popular coding website called Scratch.
 ###
@@ -38,6 +37,12 @@
 
 ### other stuff lol
 <img src="https://github.com/sponsors/Juarez2010/button" title="Sponsor Juarez2010" height="35" width="116" style="border: 0;">
- <a href="https://www.patreon.com/bePatron?u=74060470" data-patreon-widget-type="become-patron-button">Become a Patron! (this is optional)</a> 
+<iframe src="https://czottmann.github.io/patreon-buttons/patreon-btn.html?creator=Juarez2010"
+  allowtransparency="true"
+  frameborder="0"
+  scrolling="0"
+  width="62"
+  height="20">
+</iframe> 
 
  
