@@ -37,12 +37,6 @@
 
 ### other stuff lol
 <img src="https://github.com/sponsors/Juarez2010/button" title="Sponsor Juarez2010" height="35" width="116" style="border: 0;">
-<iframe src="https://czottmann.github.io/patreon-buttons/patreon-btn.html?creator=Juarez2010"
-  allowtransparency="true"
-  frameborder="0"
-  scrolling="0"
-  width="62"
-  height="20">
-</iframe> 
+<img src="https://czottmann.github.io/patreon-buttons/patreon-btn.html?creator=Juarez2010">
 
  
