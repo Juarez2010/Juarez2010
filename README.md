@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 ### Hello.
 ### I'm Juarez2010. Some of you may know me from a popular coding website called Scratch.
 ###
@@ -34,6 +35,7 @@
 
 ### things
 <a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> 
+
 ### other stuff lol
 <iframe src="https://github.com/sponsors/Juarez2010/button" title="Sponsor Juarez2010" height="35" width="116" style="border: 0;"></iframe>
  <a href="https://www.patreon.com/bePatron?u=74060470" data-patreon-widget-type="become-patron-button">Become a Patron! (this is optional)</a> 
