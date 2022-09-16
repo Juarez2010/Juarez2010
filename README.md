@@ -32,6 +32,6 @@
 <a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> 
 
 ### other stuff lol
-<object src="https://github.com/sponsors/Juarez2010/button" title="Sponsor Juarez2010" height="35" width="116" style="border: 0;"></object>
+<object src="https://github.com/sponsors/Juarez2010/button" type="image/png" height="35" width="116" style="border: 0;"></object>
 
  
