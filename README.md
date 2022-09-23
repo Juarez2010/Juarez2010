@@ -31,7 +31,7 @@
 ### things
 <a href="https://discord.gg/q7RRtZfH4p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40"></a> 
 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Juarez2010YT?style=social)
+<a href="https://reddit.com/u/Juarez2010YT" target="blank"><img align="center" src="https://img.shields.io/reddit/user-karma/combined/Juarez2010YT?style=social" alt="reddit"  width="200"></a> 
 <br>
 <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Juarez2010?style=social">
 
