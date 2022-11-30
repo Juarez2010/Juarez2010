@@ -30,7 +30,7 @@
 
 ### things
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://discord.gg/U9P6yr73bA">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
